@@ -1,0 +1,55 @@
+        /*---Header---*/
+        .header-signup {
+            height: 587px;
+            width: 1517px;
+            background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/projects-m6LV8Ra6jXcQkzg5.png);
+            background-size: 1517px;
+
+        }
+
+.header-signup .heading-signup{
+    padding-top: 415px;
+margin-left:120px;
+color: #ffffff;
+font-size: 104px;
+font-family: 'Hammersmith One', sans-serif;
+font-weight: 550;
+}
+/*login*/
+.login-page-signup{
+    margin-top: 120px;
+    margin-bottom: 120px;
+    text-align: center;
+  }
+  .entry-signup{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  .entry-signup label{
+    font-size: 20px;
+  }
+  .entry-signup input{
+    width: 250px;
+height: 35px;
+background-color: whitesmoke;
+border: none;
+}
+  .hl-signup h3{
+    font-size: 40px;
+    margin-bottom: 40px;
+
+  }
+  .bt-signup{
+    margin-top: 30px;
+height: 30px;
+width: 60px;
+background-color: black;
+  }
+  .bt-signup a{
+    color: white;
+  }
+  .hs-signup{
+    margin-top: 20px;
+  }

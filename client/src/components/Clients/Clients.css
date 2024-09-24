@@ -1,0 +1,11 @@
+.boxx{
+    padding:50px 150px 50px 150px;
+  }
+.boxx1,.boxx2,.boxx3.boxx4{
+    width: 1150px;
+}
+
+  .boxx img{
+    width:250px;
+    padding: 20px;
+  }

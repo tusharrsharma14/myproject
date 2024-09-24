@@ -1,0 +1,13 @@
+.services .boxservices {
+    color: #333333;
+    /* padding: 30px 200px 30px 500px; */
+    padding: 20px 200px 20px 200px;
+  }
+.services .boxservices h3{
+    color: #0156A7;
+    font-weight: 400;
+  }
+.services .boxservices4 p,.boxservices6 p{
+    color: #0156A7;
+    font-weight: 500;
+  }

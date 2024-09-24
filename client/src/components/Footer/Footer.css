@@ -1,0 +1,33 @@
+ /* footer */
+ .ft{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-color: #F5F5F5;
+    font-weight: 200;
+  }
+  .fw h4{
+    font-weight: 100;
+    color: #EC1B30;
+  }
+  .fc{
+    color: #0156A7;
+    list-style-type: none;
+    list-style-position: inside;
+    padding-left: 0;
+    margin-left:0 ;
+  }
+  .footer2{
+    background-color: #404040;
+    line-height: 50px;
+    color: #B5B5B5;
+    font-size: small;
+  }
+  .img2 {
+    text-align: center;
+  }
+  .image {
+    text-align: center;
+  }
+
